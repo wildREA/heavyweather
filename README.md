@@ -1,4 +1,4 @@
-[![Logo](https://cdn.discordapp.com/attachments/691961394987532311/1299153463640330281/image2.png?ex=671c2a72&is=671ad8f2&hm=c60389a369391ef10106e26c9dc848e5ace7d0fb704fc118ec36d11f7a0a76ee&)
+![Logo](https://cdn.discordapp.com/attachments/691961394987532311/1299153463640330281/image2.png?ex=671c2a72&is=671ad8f2&hm=c60389a369391ef10106e26c9dc848e5ace7d0fb704fc118ec36d11f7a0a76ee&)
 # Heavy Weather
 
 This is a repository for a website that I made for a community. It contains information about them, their lore, and x. I am a part of the community and wanted to crreate something for it.
