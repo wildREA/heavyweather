@@ -54,6 +54,13 @@ HTML, CSS, JavaScript, Bootstrap, PHP, SQL (manipulation and declaration), Apach
 
 **Server:** Fastly, Github Pages
 
+**Security:** HTTPS, TLS
+
+
+**Client:** HTML, CSS, JavaScript
+**Server:** Fastly, Github Pages
+**Security:** HTTPS, TLS
+
 
 ## Used By
 
