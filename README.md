@@ -1,4 +1,4 @@
-![Logo](https://i.ibb.co/G5BGV7P/SLAV-DEV.png)
+![Logo]([https://i.ibb.co/G5BGV7P/SLAV-DEV.png](https://i.ibb.co/WkWYpyy/image2.png))
 # Heavy Weather
 
 This is a repository for a website that I made for a community. It contains information about them, their lore, and x. I am a part of the community and wanted to crreate something for it.
