@@ -52,7 +52,7 @@ HTML, CSS, JavaScript, Bootstrap, PHP, SQL (manipulation and declaration), Apach
 
 **Client:** HTML, CSS, JavaScript
 
-**Server:** Fastly, Github Page
+**Server:** Fastly, Github Pages
 
 
 ## Used By
